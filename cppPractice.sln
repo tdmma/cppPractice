@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cppPractice", "cppPractice\cppPractice.vcxproj", "{FBE23CE7-B9E6-43C6-A72C-ED0ACAF06716}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "operator", "operator\operator.vcxproj", "{2906B8B0-FE17-4481-BABC-1D9180F6B662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE23CE7-B9E6-43C6-A72C-ED0ACAF06716}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FBE23CE7-B9E6-43C6-A72C-ED0ACAF06716}.Debug|Win32.Build.0 = Debug|Win32
+		{FBE23CE7-B9E6-43C6-A72C-ED0ACAF06716}.Release|Win32.ActiveCfg = Release|Win32
+		{FBE23CE7-B9E6-43C6-A72C-ED0ACAF06716}.Release|Win32.Build.0 = Release|Win32
+		{2906B8B0-FE17-4481-BABC-1D9180F6B662}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2906B8B0-FE17-4481-BABC-1D9180F6B662}.Debug|Win32.Build.0 = Debug|Win32
+		{2906B8B0-FE17-4481-BABC-1D9180F6B662}.Release|Win32.ActiveCfg = Release|Win32
+		{2906B8B0-FE17-4481-BABC-1D9180F6B662}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
